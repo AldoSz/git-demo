@@ -5,6 +5,3 @@ Nuestros palabras vanas
 
 Y sin embargo sigues tratando
 Lo que fue ya no es
-Another line to test
-The revert option
-------------------------------
