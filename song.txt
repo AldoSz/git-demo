@@ -7,8 +7,3 @@ Something different for this
 New branch like a new song
 That can feel so deep
 In the soul of the listener
-
-The new melody is ready
-To prove the commit
-Into the new feature branch
-Lets see want happend tonight
